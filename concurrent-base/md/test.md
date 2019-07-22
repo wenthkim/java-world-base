@@ -1,0 +1,1 @@
+![binaryTree](../img/ESresult.png "binaryTree")

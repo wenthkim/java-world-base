@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/algorithm-base/algorithm-base.iml" filepath="$PROJECT_DIR$/algorithm-base/algorithm-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/concurrent-base/concurrent-base.iml" filepath="$PROJECT_DIR$/concurrent-base/concurrent-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java8-base/java8-base.iml" filepath="$PROJECT_DIR$/java8-base/java8-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvm-base/jvm-base.iml" filepath="$PROJECT_DIR$/jvm-base/jvm-base.iml" />
+    </modules>
+  </component>
+</project>
